@@ -1,0 +1,20 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "image": "Asus-vivobook.jpg",
+      "name": "ASUS VivoBook 15 A516MAO",
+      "buy_price": 3700000,
+      "sell_price": 4000000,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "image": "Lenovo-ideapad.jpg",
+      "name": "Lenovo IdeaPad Slim 3i 14IGL05",
+      "buy_price": 3900000,
+      "sell_price": 4500000,
+      "stock": 10
+    }
+  ]
+}
